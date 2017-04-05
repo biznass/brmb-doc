@@ -98,7 +98,7 @@ margin-top: 6px;
 
 /* Making the header responsive */
 
-@media all and (max-width: 100%) {
+@media screen and (max-width: 100%) {
 
 	.header-basic {
 		padding: 20px 0;
