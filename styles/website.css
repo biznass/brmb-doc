@@ -99,6 +99,10 @@ margin-top: 6px;
 /* Making the header responsive */
 
 @media all and (max-width: 300px) {
+    
+    .h1text{
+        font-size: 1em;
+}
 
 	.header-basic {
 		padding: 20px 0;
@@ -109,7 +113,7 @@ margin-top: 6px;
 		float: none;
 		margin: -8px 0 10px;
 		text-align: center;
-		font-size: 1em;
+		font-size: 12px;
 		line-height: 1;
 	}
 
@@ -119,7 +123,7 @@ margin-top: 6px;
 	}
 
 	.header-basic .header-limiter nav a {
-		font-size: 1em;
+		font-size: 13px;
 	}
 
 }
