@@ -1,15 +1,54 @@
 .header-basic {
-	background-color: #292c2f;
-	box-shadow: 1px 2px 2px rgba(0, 0, 0, 0.15);
-	padding: 20px 40px;
+	background-color:#292c2f;
+	box-shadow:0 1px 1px #ccc;
+	padding: 5px 40px;
 	height: 80px;
+	color: #ffffff;
 	box-sizing: border-box;
+	top:-100px;
+
+	-webkit-transition:top 0.3s;
+	transition:top 0.3s;
 }
 
 .header-basic .header-limiter {
 	max-width: 1200px;
 	text-align: center;
 	margin: 0 auto;
+}
+
+.headerright{
+float:right;
+width: 40%;
+margin: 10px;
+height: 50px;
+	
+}
+
+.headerimages{
+width: 16.7%;	
+float: left;
+height: 30px;
+}
+
+.h1text{
+width: 15%;	
+float: left;
+height: 30px;
+margin-right: 9.4px;
+margin-top: 6px;
+color: #fff;
+text-transform: uppercase;
+}
+
+.h1text2{
+width: 15%;	
+float: left;
+height: 30px;
+margin-top: 6px;
+    color: #fff;
+    text-transform: uppercase;
+
 }
 
 /* Logo */
