@@ -1,133 +1,55 @@
-.header-basic {
-	background-color:#292c2f;
-	box-shadow:0 1px 1px #ccc;
-	padding: 5px 40px;
-	height: 80px;
-	color: #ffffff;
-	box-sizing: border-box;
-	top:-100px;
-
-	-webkit-transition:top 0.3s;
-	transition:top 0.3s;
+.topnav {
+    background-color: #000;
+    overflow: hidden;
 }
 
-.header-basic .header-limiter {
-	max-width: 1200px;
-	text-align: center;
-	margin: 0 auto;
-}
-
-.headerright{
-float:right;
-width: 40%;
-margin: 10px;
-height: 80px;
-	
-}
-
-.headerimages{
-width: 16.7%;	
-float: left;
-height: 30px;
-}
-
-.h1text{
-width: 15%;	
-float: left;
-height: 30%;
-margin-right: 9.4px;
-margin-top: 6px;
-color: #fff;
+.topnav a {
+    float: right;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+font-family: Roboto Condensed Light;
 text-transform: uppercase;
-}
-
-.h1text2{
-width: 15%;	
-float: left;
-height: 30px;
-margin-top: 6px;
-    color: #fff;
-    text-transform: uppercase;
+font-weight: 200;
 
 }
 
-/* Logo */
-
-.header-basic .header-limiter h1 {
-	float: left;
-	font: normal 28px Cookie, Arial, Helvetica, sans-serif;
-	line-height: 40px;
-	margin: 0;
+.topnav img{
+width: 20px;
 }
 
-.header-basic .header-limiter h1 span {
-	color: #5383d3;
+.topnav a:hover {
+    background-color: #f6921e;
+    color: black;
 }
 
-/* The header links */
-
-.header-basic .header-limiter a {
-	color: #ffffff;
-	text-decoration: none;
+.topnav .icon {
+    display: none;
 }
 
-.header-basic .header-limiter nav{
-	font:16px Arial, Helvetica, sans-serif;
-	line-height: 40px;
-	float: right;
+
+
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child) {display: none;}
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
 }
 
-.header-basic .header-limiter nav a{
-	display: inline-block;
-	padding: 0 5px;
-	text-decoration:none;
-	color: #ffffff;
-	font-size: 16px;
-	opacity: 0.9;
-}
-
-.header-basic .header-limiter nav a:hover{
-	opacity: 1;
-}
-
-.header-basic .header-limiter nav a.selected {
-	color: #608bd2;
-	pointer-events: none;
-	opacity: 1;
-}
-
-/* Making the header responsive */
-
-@media all and (max-width: 300px) {
-    
-
-	.header-basic {
-		padding: 20px 0;
-		height: 75px;
-	}
-
-	.header-basic .header-limiter h1 {
-		float: none;
-		margin: -8px 0 10px;
-		text-align: center;
-		font-size: 2em;
-		line-height: 1;
-	}
-
-	.header-basic .header-limiter nav {
-		line-height: 1;
-		float:none;
-	}
-
-	.header-basic .header-limiter nav a {
-		font-size: 2em;
-	}
-
-}
-
-/* For the headers to look good, be sure to reset the margin and padding of the body */
-
-body {
-	margin:0;
-	padding:0;
+@media screen and (max-width: 700px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive a.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
 }
