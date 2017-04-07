@@ -1,3 +1,10 @@
+.logo {
+  display: inline;
+  float: left;
+  padding-top: 12px;
+  margin-left: 10px;
+}
+
 .topnav {
     background-color: #000;
     overflow: hidden;
@@ -17,12 +24,6 @@ font-weight: 200;
 
 }
 
-.topnav logo {
-  display: inline;
-  float: left;
-  padding-top: 12px;
-  margin-left: 10px;
-}
 
 .topnav img{
 width: 20px;
