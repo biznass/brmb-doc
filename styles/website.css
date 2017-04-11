@@ -1,7 +1,13 @@
+@charset "UTF-8";
 .topnav {
     background-color: #000;
     overflow: hidden;
 }
+
+.topnavimg img{
+	width: 10%;
+}
+
 
 .topnav a {
     float: right;
@@ -11,12 +17,11 @@
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
-font-family: Roboto Condensed Light;
+font-family: Roboto Condensed Light, sans-serif;
 text-transform: uppercase;
 font-weight: 200;
 
 }
-
 
 .topnav img{
 width: 20px;
@@ -39,6 +44,11 @@ width: 20px;
     float: right;
     display: block;
   }
+
+.topnavimg img{
+	display: none;
+}
+
 }
 
 @media screen and (max-width: 700px) {
@@ -53,4 +63,15 @@ width: 20px;
     display: block;
     text-align: left;
   }
+
+
+
+.topnavimg img{
+	width: 10%;
+}
+
+}
+
+.topnavimg img{
+	width: 10%;
 }
