@@ -1,6 +1,6 @@
 # Summary
 
-* [Info](/README.md)
+* [About Us](/README.md)
 
 ## General FAQ
 * [Information](General/README.md)

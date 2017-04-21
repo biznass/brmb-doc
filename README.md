@@ -1,13 +1,12 @@
 ## BACKROADMAPBOOKS
 
-Backroad Mapbooks is the go-to source for road and recreation maps and activity guides for hiking, fishing, camping, paddling, snowmobiling, ATVing and more!
+CANADA’S PREMIER BACKCOUNTRY MAPS AND OUTDOOR RECREATION GUIDES
+
+The Backroad Mapbooks series is the go-to source for user-friendly topographic maps and outdoor adventure information. Our popular map books contain the most detailed maps in Canada, plus extensive trails and regional information on hiking, camping, angling, snowmobiling, hunting, skiing, paddling, ATVing and much, much more. In addition to durable, heavy-duty print map books, we produce foldable waterproof maps, custom TOPO maps, digital maps, PDF maps and GPS maps.
 
 ### DISCOVER CANADA’S BACKCOUNTRY
 
-| ![](http://www.backroadmapbooks.com/media/wysiwyg/infortis/ultimo/custom/home/home_about_history.png)  |![](http://www.backroadmapbooks.com/media/wysiwyg/infortis/ultimo/custom/home/home_about_team.png)   |![](http://www.backroadmapbooks.com/media/wysiwyg/infortis/ultimo/custom/home/home_about_geotour.png)   |![](http://www.backroadmapbooks.com/media/wysiwyg/infortis/ultimo/custom/home/home_about_catalog.png)   |
-|---|---|---|---|
-| [Our History](http://www.backroadmapbooks.com/our-history/) | [Meet Our Team](http://www.backroadmapbooks.com/our-team/) | [Discover Our Geo Tour](https://www.geocaching.com/play/geotours/backroadmapbooks) | [Download Our Catalogue](http://maps.backroadmapbooks.netdna-cdn.com/downloadable/files/BRMB-2017-Product-Guide.pdf) |
-
+![](http://www.backroadmapbooks.com/media/wysiwyg/parent-pages/Topo-Maps/topographic_maps.jpg)
 
 
 
