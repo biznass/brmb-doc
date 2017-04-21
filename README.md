@@ -1,18 +1,17 @@
-## BACKROAD GPS MAPS
+## BACKROADMAPBOOKS
 
-![](http://www.backroadmapbooks.com/media/wysiwyg/parent-page-images/header-gps-v7.jpg)
+![](http://www.backroadmapbooks.com/media/wysiwyg/infortis/ultimo/custom/home/home_about_history.png)
 
-### CANADA’S LEADING GARMIN-LICENSED GPS MAPS
+### DISCOVER CANADA’S BACKCOUNTRY
 
-Brought to you by the popular Backroad Mapbooks series, the Backroad GPS Maps boast the most detailed and comprehensive coverage of Canada available to recreational users. Our digital topographic maps get you live via GPS, with the most complete maps available from British Columbia to Nova Scotia. These Garmin-licensed maps contain the most up-to-date outdoor recreation information including contour elevations and summits, routable industry and logging roads, trails, parks, rivers, lakes, geographic and recreation points, and detailed city streets and highways. Compatible with Garmin GPS and Garmin Basecamp, these backcountry GPS maps are designed to get you navigating the wilderness with confidence
+| ![](http://www.backroadmapbooks.com/media/wysiwyg/infortis/ultimo/custom/home/home_about_history.png)  |![](http://www.backroadmapbooks.com/media/wysiwyg/infortis/ultimo/custom/home/home_about_team.png)   |![](http://www.backroadmapbooks.com/media/wysiwyg/infortis/ultimo/custom/home/home_about_geotour.png)   |![](http://www.backroadmapbooks.com/media/wysiwyg/infortis/ultimo/custom/home/home_about_catalog.png)   |
+|---|---|---|---|
+|Read About Our History   | Meet Our Team  | Discover Our Geo Tour  | Download Our Catalogue  |
 
-# Requirements
 
-Garmin Basecamp
+Backroad Mapbooks is the go-to source for road and recreation maps and activity guides for hiking, fishing, camping, paddling, snowmobiling, ATVing and more!
 
-```
-http://www.garmin.com/en-CA/shop/downloads/basecamp
-```
+
 
 # Contact Us
 
