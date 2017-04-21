@@ -1,12 +1,12 @@
-# What is the Avenza Map Store?
+## What is the Avenza Map Store?
  
 The Avenza Map Store contains spatially referenced maps from around the world including USGS and Canadian Topographic maps. The Avenza Map Store can be accessed directly through the app where in-app purchases can be made. Maps can be downloaded for free as well. Vendors can register and sell their maps on the Avenza Map Store. See more info about the Avenza Map Store.
  
- # Can i view maps offline?
+ ## Can i view maps offline?
   
  Yes! Maps are stored on the device and can be used offline. This is a great feature for travelers who wish to load up maps before they travel outside of their home network coverage area - no roaming data charges! It works great with using a device that has GPS built-in (GPS can remain on even when cellular data is disabled).
   
- # Getting Maps from the Avenza map store
+ ## Getting Maps from the Avenza map store
  
  You can purchase or download free maps and map bundles (a collection of maps available from a map publisher) easily from the Avenza Map Store with only a few taps.
  To download a free map:
@@ -26,7 +26,7 @@ Go to the Maps List to open the map.
 ![](http://help.avenzamaps.com/customer/portal/attachments/659577)
 
  
- # Importing a Map (IOS)
+ ## Importing a Map (IOS)
    
  On the Map List screen, tap the Add icon to import a map.
    
@@ -37,21 +37,21 @@ Go to the Maps List to open the map.
    
  ![](http://help.avenzamaps.com/customer/portal/attachments/657261)
    
- # Importing a Map (Android)
+ ## Importing a Map (Android)
    
  On the Map List screen, tap the Add icon ( + ) followed by "Download or import a map" to import a map.
  You can import a map from any of the following sources:
  Avenza Map Store
    
    
- # How do i use the built in GPS
+ ## How do i use the built in GPS
     
  Tap the GPS icon to use the built-in GPS to view your location in real-time.
  Tapping the location icon once will locate you on the map while tapping the location icon again will focus the frame on your location as you move around the map.
  This only works if you are physically within the geographic extents of the map that you are viewing.
  The status Not on map appears if you are not within the extents of the map.
     
- # How do i record a GPS track
+ ## How do i record a GPS track
     
  With an active map open, tap the Map Tools icon (wrench), then tap Record GPS Tracks. 
  
