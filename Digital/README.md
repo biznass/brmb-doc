@@ -1,18 +1,21 @@
 ## BACKROAD GPS MAPS
 
-![](http://www.backroadmapbooks.com/media/wysiwyg/parent-page-images/header-gps-v7.jpg)
+![](http://www.backroadmapbooks.com/media/wysiwyg/parent-pages/Topo-Maps/2columns-titles-topo.jpg)
 
-### CANADA’S LEADING GARMIN-LICENSED GPS MAPS
+### Backroadmapbooks Digital Topos
 
-Brought to you by the popular Backroad Mapbooks series, the Backroad GPS Maps boast the most detailed and comprehensive coverage of Canada available to recreational users. Our digital topographic maps get you live via GPS, with the most complete maps available from British Columbia to Nova Scotia. These Garmin-licensed maps contain the most up-to-date outdoor recreation information including contour elevations and summits, routable industry and logging roads, trails, parks, rivers, lakes, geographic and recreation points, and detailed city streets and highways. Compatible with Garmin GPS and Garmin Basecamp, these backcountry GPS maps are designed to get you navigating the wilderness with confidence
+Backroadmapbooks Digital Topo Geospatial PDF files are PDF documents that contain geospatial information such as real world location and/or GIS attributes.  The geospatial data contained in a geospatial PDF document may be accessed and used (for example to locate a specific point or measure distances) without the aid of any additional plugins, using tools found natively in Adobe Reader 9 and Acrobat 9.
+
+
 
 # Requirements
 
-Garmin Basecamp
+Avenza PDF Map
 
-```
-http://www.garmin.com/en-CA/shop/downloads/basecamp
-```
+[Itunes](http://itunes.apple.com/ca/app/avenza-pdf-maps/id388424049?mt=8#)
+
+[Google Play](https://play.google.com/store/apps/details?id=com.Avenza)
+
 
 # Contact Us
 
