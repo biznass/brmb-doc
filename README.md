@@ -6,7 +6,7 @@ Backroad Mapbooks is the go-to source for road and recreation maps and activity 
 
 | ![](http://www.backroadmapbooks.com/media/wysiwyg/infortis/ultimo/custom/home/home_about_history.png)  |![](http://www.backroadmapbooks.com/media/wysiwyg/infortis/ultimo/custom/home/home_about_team.png)   |![](http://www.backroadmapbooks.com/media/wysiwyg/infortis/ultimo/custom/home/home_about_geotour.png)   |![](http://www.backroadmapbooks.com/media/wysiwyg/infortis/ultimo/custom/home/home_about_catalog.png)   |
 |---|---|---|---|
-| ![Our History(http://www.backroadmapbooks.com/our-history/) | Meet Our Team | Discover Our Geo Tour | Download Our Catalogue |
+| [Our History](http://www.backroadmapbooks.com/our-history/) | [Meet Our Team](http://www.backroadmapbooks.com/our-team/) | [Discover Our Geo Tour](https://www.geocaching.com/play/geotours/backroadmapbooks) | [Download Our Catalogue](http://maps.backroadmapbooks.netdna-cdn.com/downloadable/files/BRMB-2017-Product-Guide.pdf) |
 
 
 
