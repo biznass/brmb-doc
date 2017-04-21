@@ -2,7 +2,7 @@
 
 * [About Us](/README.md)
 
-## General FAQ
+## General
 * [General FAQ](General/faq.md)
 
 ## Digital Maps
