@@ -1,15 +1,13 @@
 ## BACKROADMAPBOOKS
 
-![](http://www.backroadmapbooks.com/media/wysiwyg/infortis/ultimo/custom/home/home_about_history.png)
+Backroad Mapbooks is the go-to source for road and recreation maps and activity guides for hiking, fishing, camping, paddling, snowmobiling, ATVing and more!
 
 ### DISCOVER CANADA’S BACKCOUNTRY
 
 | ![](http://www.backroadmapbooks.com/media/wysiwyg/infortis/ultimo/custom/home/home_about_history.png)  |![](http://www.backroadmapbooks.com/media/wysiwyg/infortis/ultimo/custom/home/home_about_team.png)   |![](http://www.backroadmapbooks.com/media/wysiwyg/infortis/ultimo/custom/home/home_about_geotour.png)   |![](http://www.backroadmapbooks.com/media/wysiwyg/infortis/ultimo/custom/home/home_about_catalog.png)   |
 |---|---|---|---|
-|Read About Our History   | Meet Our Team  | Discover Our Geo Tour  | Download Our Catalogue  |
+| ![Our History(http://www.backroadmapbooks.com/our-history/) | Meet Our Team | Discover Our Geo Tour | Download Our Catalogue |
 
-
-Backroad Mapbooks is the go-to source for road and recreation maps and activity guides for hiking, fishing, camping, paddling, snowmobiling, ATVing and more!
 
 
 

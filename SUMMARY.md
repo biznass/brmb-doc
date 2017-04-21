@@ -1,11 +1,11 @@
 # Summary
 
 ## General FAQ
-* [Introduction](General/README.md)
-* [General Information](General/faq.md)
+* [Information](General/README.md)
+* [General FAQ](General/faq.md)
 
 ## Digital Maps
-* [Introduction](Digital/README.md)
+* [Information](Digital/README.md)
 * [Digital Topo Maps](Digital/faq.md)
 
 ## BRMB GPS Maps manual
