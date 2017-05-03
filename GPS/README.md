@@ -13,6 +13,7 @@ Garmin Basecamp
 ```
 http://www.garmin.com/en-CA/shop/downloads/basecamp
 ```
+![](http://www.backroadmapbooks.com/media/wysiwyg/basecamp_intro.jpg)
 
 # Contact Us
 
