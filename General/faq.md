@@ -28,7 +28,7 @@ If you buy or are given a second hand SD card we cannot support it due to the li
 
 Yes, you will need to call us and pay the difference in price and send us the old card to have it updated (i.e. BC to BCAB – currently $75).
 
-## Can I purchase a larger SD card for my maps?>
+## Can I purchase a larger SD card for my maps?
 
 Yes, you can upgrade your card size to 16GB – currently $19.95 or 32GB – currently $29.95.
 
@@ -38,7 +38,7 @@ Yes, you will need to pay a $25 license upgrade fee and send us the SD cards (th
 
 * The customer is responsible for the return shipping charges of the product. A replacement item (including a new unlock key) will be issued once we receive the returned merchandise. The old unlock key will be deactivated upon receipt of the new unlock key.
 
-## Do you offer any discounts for SAR/POLICE/FIRE/MILITARY>
+## Do you offer any discounts for SAR/POLICE/FIRE/MILITARY
 
 Yes, we have a clubs and organization discount for these types of groups. Please contact us at info@backroadmapbooks.com for more information.
 
