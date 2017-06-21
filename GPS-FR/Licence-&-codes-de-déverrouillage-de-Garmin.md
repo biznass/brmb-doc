@@ -1,22 +1,20 @@
 
-# Licence & codes de déverrouillage de Garmin
+# Licence & codes de dÃ©verrouillage de Garmin
 
-![](/assets/Garmin.jpg)
-
-Backroad Mapbooks utilise la technologie licenciée de Garmin pour déverrouiller les cartes et les afficher sur votre GPS. Les fichiers de licence servent à débloquer les cartes sur votre appareil mais peuvent également déverrouiller les cartes installées sur BaseCamp de Garmin.
+Backroad Mapbooks utilise la technologie licenciÃ©e de Garmin pour dÃ©verrouiller les cartes et les afficher sur votre GPS. Les fichiers de licence servent Ã  dÃ©bloquer les cartes sur votre appareil mais peuvent Ã©galement dÃ©verrouiller les cartes installÃ©es sur BaseCamp de Garmin.
  
-Les fichiers .gma sont utilisés pour authentifier les cartes téléchargées depuis la carte microSD sur le GPS.
+Les fichiers .gma sont utilisÃ©s pour authentifier les cartes tÃ©lÃ©chargÃ©es depuis la carte microSD sur le GPS.
 
-BaseCamp de Garmin exige que vous importiez ce fichier pour pouvoir authentifier les cartes installées avant d’en afficher tous les détails.
+BaseCamp de Garmin exige que vous importiez ce fichier pour pouvoir authentifier les cartes installÃ©es avant dâ€™en afficher tous les dÃ©tails. 
 
-Le fichier .unl représente le fichier déverrouillé et consiste de votre code à 25 chiffres.
+Le fichier .unl reprÃ©sente le fichier dÃ©verrouillÃ© et consiste de votre code Ã  25 chiffres.
 
-Les fichiers de licence sont situés dans le dossier Garmin de la carte  microSD et sont propres à chaque carte.
+Les fichiers de licence sont situÃ©s dans le dossier Garmin de la carte  microSD et sont propres Ã  chaque carte
 
-> **\[warning] Avertissement:**
+> **\[warning\] Avertissement:**
 >
-> Copier les données d’une carte microSD originale sur une autre carte peut afficher un message d’erreur tel que: “Cartes non-déverrouillées”.
+> Copier les donnÃ©es dâ€™une carte microSD originale sur une autre carte peut afficher un message dâ€™erreur tel que: â€œCartes >non-dÃ©verrouillÃ©esâ€.
 >
-> Ce message s’affiche car le fichier de licence ne correspond pas à la carte.
+> Ce message sâ€™affiche car le fichier de licence ne correspond pas Ã  la carte.
 
 
