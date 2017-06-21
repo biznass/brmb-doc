@@ -1,30 +1,30 @@
 # Installation des cartes GPS dans Windows
 
-> **[info] Attention:** Pour visionner les cartes informatisées, vous devez avoir installé le programme de cartographie gratuit de Garmin appelé “BaseCamp” sur votre ordinateur. Si vous n’avez PAS encore BaseCamp de Garmin sur votre ordinateur, suivez ces étapes pour l’installer
+> **[info] Attention:** Pour visionner les cartes informatisÃ©es, vous devez avoir installÃ© le programme de cartographie gratuit de Garmin appelÃ© â€œBaseCampâ€ sur votre ordinateur. Si vous nâ€™avez PAS encore BaseCamp de Garmin sur votre ordinateur, suivez ces Ã©tapes pour lâ€™installer
 
-1.	Cliquez Ici pour télécharger BaseCamp de Garmin sur un PC Windows. http://www.garmin.com/en-CA/shop/downloads/basecamp
+1.	Cliquez Ici pour tÃ©lÃ©charger BaseCamp de Garmin sur un PC Windows. http://www.garmin.com/en-CA/shop/downloads/basecamp
 
-2.	Trouvez l’emplacement du fichier d’installation téléchargé (BaseCamp_###.exe). Par défaut, il se trouve dans “Téléchargements”.  
+2.	Trouvez lâ€™emplacement du fichier dâ€™installation tÃ©lÃ©chargÃ© (BaseCamp_###.exe). Par dÃ©faut, il se trouve dans â€œTÃ©lÃ©chargementsâ€.  
 
-3.	Cliquez deux fois sur le fichier pour ouvrir et démarrer l’installateur de BaseCamp. Suivez les instructions pour compléter l’installation.
+3.	Cliquez deux fois sur le fichier pour ouvrir et dÃ©marrer lâ€™installateur de BaseCamp. Suivez les instructions pour complÃ©ter lâ€™installation.
 
-4.	Veuillez sortir de BaseCamp avant d’installer les cartes informatisées. 
+4.	Veuillez sortir de BaseCamp avant dâ€™installer les cartes informatisÃ©es. 
 
 ## Installation
 
-A.) **Téléchargez l’installateur des cartes informatisées**
+A.) **TÃ©lÃ©chargez lâ€™installateur des cartes informatisÃ©es**
 
-1.	Connectez-vous à votre compte sur notre site web, créez un nouveau compte si vous n’en avez pas.
+1.	Connectez-vous Ã  votre compte sur notre site web, crÃ©ez un nouveau compte si vous nâ€™en avez pas.
 
 ![](/assets/login_create.png)
 
-2.	Depuis le menu à gauche de l'écran, cliquez sur MON COMPTE GPS.
+2.	Depuis le menu Ã  gauche de l'Ã©cran, cliquez sur MON COMPTE GPS.
 
 ![](/assets/mybrmbgpsaccount.png)
 
-3.	Faites défiler l'écran jusqu'à l’endroit où il vous est demandé d’enregistrer votre produit, et trouvez le nom de votre produit (“Nom de la Province - SD [V#]”).
+3.	Faites dÃ©filer l'Ã©cran jusqu'Ã  lâ€™endroit oÃ¹ il vous est demandÃ© dâ€™enregistrer votre produit, et trouvez le nom de votre produit (â€œNom de la Province - SD [V#]â€).
 
-4.	Cliquez sur le texte qui dit OUVRIR/TÉLÉCHARGER, à droite du nom de votre produit. 
+4.	Cliquez sur le texte qui dit OUVRIR/TÃ‰LÃ‰CHARGER, Ã  droite du nom de votre produit. 
 
 ![](/assets/open-down.png)
 
@@ -32,73 +32,73 @@ OU
 
 ![](/assets/updates-avail.png)
 
-5.	Dans la rubrique CARTES INFORMATISÉES GRATUITES, cliquez sur le bouton Télécharger sur un Mac ou Télécharger sur un PC.
+5.	Dans la rubrique CARTES INFORMATISÃ‰ES GRATUITES, cliquez sur le bouton TÃ©lÃ©charger sur un Mac ou TÃ©lÃ©charger sur un PC.
 
 ![](/assets/download_pc.png)
 
-6.	Sauvegardez le fichier dans un emplacement connu de votre ordinateur, tel que le Bureau ou les Téléchargements. 
+6.	Sauvegardez le fichier dans un emplacement connu de votre ordinateur, tel que le Bureau ou les TÃ©lÃ©chargements. 
 
-B.) **Installez les cartes informatisées**
+B.) **Installez les cartes informatisÃ©es**
 
-1.	Insérez votre microSD dans votre ordinateur ou branchez votre GPS contenant la carte à l’aide d’un câble USB. Ceci ouvrira un lecteur appelé BRMB_##v7. Si vous utilisez votre GPS, votre Garmin s’affichera également sous forme de lettre de périphérique. 
+1.	InsÃ©rez votre microSD dans votre ordinateur ou branchez votre GPS contenant la carte Ã  lâ€™aide dâ€™un cÃ¢ble USB. Ceci ouvrira un lecteur appelÃ© BRMB_##v7. Si vous utilisez votre GPS, votre Garmin sâ€™affichera Ã©galement sous forme de lettre de pÃ©riphÃ©rique. 
 
-2.	Une fois que le téléchargement est fini, allez là où se trouve le fichier ZIP téléchargé. Par défaut, il est dans le dossier des Téléchargements. 
+2.	Une fois que le tÃ©lÃ©chargement est fini, allez lÃ  oÃ¹ se trouve le fichier ZIP tÃ©lÃ©chargÃ©. Par dÃ©faut, il est dans le dossier des TÃ©lÃ©chargements. 
 
-3.	Faites un clic droit sur le fichier ZIP et sélectionnez “Extraire tous les fichiers”. 
+3.	Faites un clic droit sur le fichier ZIP et sÃ©lectionnez â€œExtraire tous les fichiersâ€. 
 
 ![](/assets/extractall.png)
 
-4.	Cliquez deux fois sur le dossier de l’Application nommé BRMB####_v6.exe (#### représente votre province)
+4.	Cliquez deux fois sur le dossier de lâ€™Application nommÃ© BRMB####_v6.exe (#### reprÃ©sente votre province)
 
-5.  Une fenêtre avec un écran d’accueil s’ouvrira et vous pourrez commencer votre installation. Suivez les instructions jusqu'à ce que vous arriviez à la fenêtre suivant
+5.  Une fenÃªtre avec un Ã©cran dâ€™accueil sâ€™ouvrira et vous pourrez commencer votre installation. Suivez les instructions jusqu'Ã  ce que vous arriviez Ã  la fenÃªtre suivant
 
-6.	Sélectionnez votre Lecteur dans le menu déroulant; ceci copiera vos fichiers déverrouillés de la carte SD dans BaseCamp, afin de déverrouiller les cartes une fois que vous aurez cliqué Suivant. Si vous ne voyez pas votre lettre de Lecteur dans la liste, utilisez le bouton de recherche pour localiser le dossier de la carte microSD de Garmin, sélectionnez votre fichier .gma et cliquez sur Suivant pour le copier dans BaseCamp et déverrouiller vos cartes. 
+6.	SÃ©lectionnez votre Lecteur dans le menu dÃ©roulant; ceci copiera vos fichiers dÃ©verrouillÃ©s de la carte SD dans BaseCamp, afin de dÃ©verrouiller les cartes une fois que vous aurez cliquÃ© Suivant. Si vous ne voyez pas votre lettre de Lecteur dans la liste, utilisez le bouton de recherche pour localiser le dossier de la carte microSD de Garmin, sÃ©lectionnez votre fichier .gma et cliquez sur Suivant pour le copier dans BaseCamp et dÃ©verrouiller vos cartes. 
 
 ![](/assets/unlockscreen-fr.png)
  
  
-> **[info] Note:**  Si vous n’utilisez pas l’installateur pour déverrouiller vos cartes, vous pouvez le faire manuellement en important le fichier .gma dans BaseCamp de Garmin.
+> **[info] Note:**  Si vous nâ€™utilisez pas lâ€™installateur pour dÃ©verrouiller vos cartes, vous pouvez le faire manuellement en important le fichier .gma dans BaseCamp de Garmin.
 
 
-1.	Pour Déverrouiller vos cartes dans BaseCamp, il vous faudra votre fichier .GMA. Ce fichier se trouve sur votre carte SD dans le dossier Garmin ou peut être téléchargé depuis votre compte d’utilisateur. 
+1.	Pour DÃ©verrouiller vos cartes dans BaseCamp, il vous faudra votre fichier .GMA. Ce fichier se trouve sur votre carte SD dans le dossier Garmin ou peut Ãªtre tÃ©lÃ©chargÃ© depuis votre compte dâ€™utilisateur. 
 
 ![](/assets/download_pc.png)
 
-2.	Ouvrez BaseCamp de Garmin. Si vous obtenez le message “Cartes verrouillées détectées”, vous pouvez cliquer sur le bouton “Déverrouiller les cartes” puis aller directement à la 4ème étape
+2.	Ouvrez BaseCamp de Garmin. Si vous obtenez le message â€œCartes verrouillÃ©es dÃ©tectÃ©esâ€, vous pouvez cliquer sur le bouton â€œDÃ©verrouiller les cartesâ€ puis aller directement Ã  la 4Ã¨me Ã©tape
 
 ![](/assets/locked-maps.png)
 
-3.	Sinon, allez dans “Menu des cartes”et cliquez sur “Gestionnaire des cartes”.
+3.	Sinon, allez dans â€œMenu des cartesâ€et cliquez sur â€œGestionnaire des cartesâ€.
 
 ![](/assets/Managemaps.png)
 
-4.	Cliquez sur l’onglet “Déverrouiller les régions”. 
+4.	Cliquez sur lâ€™onglet â€œDÃ©verrouiller les rÃ©gionsâ€. 
 
 ![](/assets/mapproductmanager.png)
 
-5.	A l'extrémité droite, cliquez sur le bouton Importer. 
+5.	A l'extrÃ©mitÃ© droite, cliquez sur le bouton Importer. 
 
 ![](/assets/import.png)
 
-6.	Une nouvelle fenêtre apparaît. Dans le coin en bas à droite, cliquez sur le menu de fichiers déroulant appelé “Fichiers de codes de déverrouillage (.ucx)” et changez-le pour “Fichiers de codes de déverrouillage (.gma)”
+6.	Une nouvelle fenÃªtre apparaÃ®t. Dans le coin en bas Ã  droite, cliquez sur le menu de fichiers dÃ©roulant appelÃ© â€œFichiers de codes de dÃ©verrouillage (.ucx)â€ et changez-le pour â€œFichiers de codes de dÃ©verrouillage (.gma)â€
 
 ![](/assets/import_gma.png)
 
-7.	Trouvez l’emplacement de la carte SD et cliquez deux fois sur le fichier Garmin pour l’ouvrir. Si vous avez téléchargé votre fichier .gma, vous le trouverez dans le dossier où vous l’avez sauvegardé (le dossier Téléchargements par défaut).
+7.	Trouvez lâ€™emplacement de la carte SD et cliquez deux fois sur le fichier Garmin pour lâ€™ouvrir. Si vous avez tÃ©lÃ©chargÃ© votre fichier .gma, vous le trouverez dans le dossier oÃ¹ vous lâ€™avez sauvegardÃ© (le dossier TÃ©lÃ©chargements par dÃ©faut).
 
 8.	Cliquez sur le fichier qui se termine en .gma.
 
-9.	Cliquez sur le bouton Ouvrir. Si l'opération réussit, une ligne comprenant le texte “Code de déverrouillage de région de” s’ajoutera, indiquant que vos cartes ont été déverrouillées. 
+9.	Cliquez sur le bouton Ouvrir. Si l'opÃ©ration rÃ©ussit, une ligne comprenant le texte â€œCode de dÃ©verrouillage de rÃ©gion deâ€ sâ€™ajoutera, indiquant que vos cartes ont Ã©tÃ© dÃ©verrouillÃ©es. 
 
 ![](/assets/region_unlock.png)
 
-10.	Vous pouvez aussi cliquer sur l’onglet Informations sur les Cartes pour voir si elles sont maintenant déverrouillées.
+10.	Vous pouvez aussi cliquer sur lâ€™onglet Informations sur les Cartes pour voir si elles sont maintenant dÃ©verrouillÃ©es.
 
-11.	Fermez la fenêtre de Gestionnaire des cartes. 
+11.	Fermez la fenÃªtre de Gestionnaire des cartes. 
 
-12.	Fermez BaseCamp et redémarrez-le.
+12.	Fermez BaseCamp et redÃ©marrez-le.
 
-13.	Cliquez sur le menu “Cartes”. Si la dernière version de “Backroad Mapbooks v#.0” n’est pas sélectionnée, cliquez alors dessus pour la sélectionner et afficher nos cartes. Si la dernière version apparaît en double, veuillez cliquer sur celle qui se termine par (INSTALLÉ).
+13.	Cliquez sur le menu â€œCartesâ€. Si la derniÃ¨re version de â€œBackroad Mapbooks v#.0â€ nâ€™est pas sÃ©lectionnÃ©e, cliquez alors dessus pour la sÃ©lectionner et afficher nos cartes. Si la derniÃ¨re version apparaÃ®t en double, veuillez cliquer sur celle qui se termine par (INSTALLÃ‰).
 
 
 
