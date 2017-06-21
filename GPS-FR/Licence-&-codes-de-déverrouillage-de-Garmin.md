@@ -13,7 +13,7 @@ Les fichiers de licence sont situés dans le dossier Garmin de la carte  microSD
 
 > **\[warning\] Avertissement:**
 >
-> Copier les données d’une carte microSD originale sur une autre carte peut afficher un message d’erreur tel que: “Cartes >non-déverrouillées”.
+> Copier les données d’une carte microSD originale sur une autre carte peut afficher un message d’erreur tel que: “Cartes non-déverrouillées”.
 >
 > Ce message s’affiche car le fichier de licence ne correspond pas à la carte.
 
