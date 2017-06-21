@@ -25,3 +25,4 @@
 
 * [Licence & codes de déverrouillage de Garmin](GPS-FR/Licence-&-codes-de-déverrouillage-de-Garmin.md)
 * [Enregistrer la carte SD](GPS-FR/Enregistrer-la-carte-SD.md)
+* [Installation-des-cartes-GPS-dans-Windows](GPS-FR/Installation-des-cartes-GPS-dans-Windows.md)
