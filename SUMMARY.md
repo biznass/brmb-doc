@@ -21,4 +21,6 @@
 * [Gps Unit setup](GPS/gps-setup.md)
 
 
+## Documentation du Manuel d’utilisation de BRMB 
 
+* [Licence & codes de déverrouillage de Garmin](GPS-FR/Licence-&-codes-de-déverrouillage-de-Garmin.md)
