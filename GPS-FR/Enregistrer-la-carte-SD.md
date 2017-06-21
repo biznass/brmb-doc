@@ -1,6 +1,6 @@
 # Enregistrer la carte SD
 
-> **[info]Note:	AUCUN fichier de la carte SD ne peut être ouvert ou utilisé sur votre ordinateur.
+> **[info] Note:** AUCUN fichier de la carte SD ne peut être ouvert ou utilisé sur votre ordinateur.
 >
 > Pendant l’étape d’enregistrement, il vous faudra simplement sélectionner deux fichiers sur la carte SD.
 
