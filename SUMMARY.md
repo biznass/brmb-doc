@@ -27,3 +27,4 @@
 * [Enregistrer la carte SD](GPS-FR/Enregistrer-la-carte-SD.md)
 * [Installation-des-cartes-GPS-dans-Windows](GPS-FR/Installation-des-cartes-GPS-dans-Windows.md)
 * [Installation-des-cartes-GPS-sur-un-Mac](GPS-FR/Installation-des-cartes-GPS-sur-un-Mac.md)
+* [Mettre-à-jour-les-cartes](Mettre-à-jour-les-cartes.md)
