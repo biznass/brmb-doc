@@ -1,3 +1,25 @@
+## Book or Digital Product Returns 
+We want you to be happy with your purchase and shop with confidence at Backroad Mapbooks.
+
+* Returns of all mapbooks and Recreation Maps are only accepted within 20 days of the ship date.
+
+* With any return request please email us at info@backroadmapbooks.com, or call us to let us know what the nature of the return is before returning any items.
+
+* We will not accept returns on Backroad GPS Maps if the packaging is opened. 
+
+* TOPO Mapss are also not returnable since each is custom made for the order.
+
+* We will offer an exchange for the identical product if the one you receive is defective. Proof of purchase is required.
+
+
+* The customer is responsible for all return shipping charges of the product.
+
+* A refund for the original purchase price of the products will be issued once we receive the returned merchandise.
+
+* We do not refund the original billed shipping charges.
+
+**We will replaced any damaged products(proof of the damage must be sent to us once product is received)
+
 ## 60 Day GPS Map Guarantee  
 
 Shop with confidence at Backroad Mapbooks and know you are getting the latest version of Backroad GPS Maps.
