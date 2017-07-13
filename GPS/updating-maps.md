@@ -91,9 +91,9 @@ When your Unit is in Mass Storage mode the screen will show an icon on it.
 
 5.\)Copy the new .gma file you downloaded into the Garmin folder.
 
-7.\)Copy the gmapsupp.unl file into the garmin folder.
+6.\)Copy the gmapsupp.unl file into the garmin folder.
 
-8.\)Your card should now have the updated map data and license file.
+7.\)Your card should now have the updated map data and license file.
 
 > **\[info\]Note**  
 > On a mac when you delete the existing .img file you will need to empty the trash to free up the space on the card or it will complain about not enough space.
