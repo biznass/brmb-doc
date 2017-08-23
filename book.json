@@ -1,5 +1,5 @@
 {
-  "plugins": ["html5-video","alerts","livereload","anchors","youtube"],
+  "plugins": ["html5-video","alerts","livereload","anchors","videoclips"],
    "styles": {
   "website": "styles/website.css" 
 }
