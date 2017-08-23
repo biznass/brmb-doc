@@ -4,7 +4,7 @@
 > **[info]Note**
 >Turn up detail level on your unit:
 
-{% youtube src="https://www.youtube.com/watch?v=BAeBvcoNKOg"%}{% endyoutube %}
+{% youtube %}BAeBvcoNKOg{% endyoutube %}
 
 {% video %}http://backroadmapbooks.com/media/downloadable/gps/Downloads/1.Turn_up_the_detail_level.mp4 {% endvideo %}
 
