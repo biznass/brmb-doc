@@ -3,7 +3,9 @@
 
 > **[info]Note**
 >Turn up detail level on your unit:
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/feXQ5XtXy_Q?list=PLaoPc7T-lbIYxemr7SRiFoycIk0TsmFBv" frameborder="0" allowfullscreen></iframe>
+
 {% video %}http://backroadmapbooks.com/media/downloadable/gps/Downloads/1.Turn_up_the_detail_level.mp4 {% endvideo %}
 
 > **[info]Note**
