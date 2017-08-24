@@ -24,7 +24,7 @@
 > **[info]Note**
 >Configure GPS unit for driving instructions:
    
-{% youtube %}Ach1KXjTQUw&list{% endyoutube %}
+{% youtube %}Ach1KXjTQUw{% endyoutube %}
 
 > **[info]Note**
 >Saving waypoints:
